@@ -18,7 +18,7 @@ header{
 }
 #header{
     display: flex;
-    line-height: 50px;
+    line-height: 80px;
     list-style-type: none;
     margin-left: 400px;
 }
@@ -32,6 +32,15 @@ header{
 }
 #header a:hover{
     color:rgb(255, 153, 1);
+}
+#icc{
+    border: 0px black solid;
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 100px;
+    background-color: white;
+    color: orangered;
+
 }
 #logo{
     margin-left: 100px;
