@@ -122,3 +122,96 @@ header{
     height: 80px;
     
 }
+/*  */
+#section{
+    background-image: url(./image/img12.JPG);
+    background-size: cover;
+    width:1340px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: -5px;
+    
+}
+#new{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 70px;
+}
+.new1{
+    display: flex;
+    border: 0px solid white;
+   
+    margin-left: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0px rgb(190, 156, 156);
+}
+#new22{
+    background-color: rgb(238, 76, 48);
+}
+.new1 img{
+    width: 270px;
+    height: 230px;
+    margin-top: -10px;
+    
+}
+#new2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+   
+   
+}
+#new2 p{
+    font-size: 11px;
+    
+   
+}
+#new2 h1{
+    font-size: 20px;
+    font-weight: 700;
+    
+   
+}
+#nn2{
+    color: orangered;
+}
+#nn3{
+    color: white;
+}
+#neww{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 60px;
+}
+.new33{
+    display: flex;
+    border: 0px solid white;
+   width: 1600px;
+    margin-left: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 0px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0px rgb(190, 156, 156);
+}
+.new33 img{
+    width: 300px;
+    height: 240px;
+    margin-top: -30px;
+   
+    
+}
+.new33 h1{
+    margin-top: 40px;  
+}
+.new33 button{
+    padding: 7px;
+    border: 0px black solid;
+    border-radius: 15px;
+    background-color: rgb(238, 76, 48) ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
