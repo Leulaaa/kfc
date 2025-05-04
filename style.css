@@ -253,3 +253,81 @@ header{
     background-repeat: no-repeat;
 }
 /*  */
+#comm{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    margin-right: 90px;
+    
+}
+#comm2{
+    display: flex;
+    
+    
+}
+#comm1{
+    width: 370px;
+    height: 120px;
+    margin-left: 30px;
+    padding-left: 10px;
+    border: solid 0px white;
+    background-color: white;
+    border-radius: 20px;
+}
+#comm1 img{
+    margin-left: -50px;
+    margin-top: -40px;
+    width: 120px;
+}
+#comm p{
+    font-size: 12px;
+    margin-left: 50px;
+    color: rgb(99, 98, 98);
+    margin-top: -10px;
+}
+#commm{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    margin-right: 90px;
+    width: 820px;
+    
+}
+#commm2{
+    display: flex;
+    
+    
+}
+#commm1{
+    width: 390px;
+    height: 165px;
+    margin-left: 30px;
+    padding-left: 10px;
+    border: solid 0px white;
+    background-color: white;
+    border-radius: 20px;
+}
+#commm1 img{
+    margin-left: -50px;
+    margin-top: -40px;
+    width: 120px;
+}
+#commm p{
+    font-size: 12px;
+    margin-left: 50px;
+    color: rgb(99, 98, 98);
+    margin-top: -10px;
+}
+#cv{
+    margin-left: 100px;
+}
+#cos{
+    display: flex;
+}
+#vi video{
+   width: 300px;
+   margin-left: -40px;
+   
+   
+}
+/*  */
