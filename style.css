@@ -331,3 +331,82 @@ header{
    
 }
 /*  */
+#cvx{
+    display: flex;
+    background-color: rgb(230, 59, 59);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 200px;
+    height: 80px;
+}
+#cvx1{
+    display: flex;
+    text-decoration: none;
+    color: rgb(255, 250, 250);
+    margin-left: 100px;
+    margin-top: 24px;
+}
+#cvx h1{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 1000;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cvx1 span{
+    font-size: 40px;
+    font-weight: 400;
+}
+#cvx2{
+    display: flex;
+    margin-left: 190px;
+}
+#cvx3{
+    display: flex;
+    text-decoration: none;
+    color: rgb(255, 250, 250);
+    margin-left: 30px;
+    margin-top: 35px;
+    font-size: 21px;
+}
+#fot{
+    display: flex;
+    background-image: url(./image/img20.PNG);
+    background-size: cover;
+   height: 300px;
+   background-repeat: no-repeat;
+  
+}
+#fot1{
+    color: rgb(212, 212, 212);
+    margin-left: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 28px;
+}
+#fot1 h1{
+    font-size: 16px;
+    font-weight: 600;
+}
+#fot1 li {
+    list-style-type: none;
+    margin-left: -50px;
+    padding: 10px;
+}
+#fot1 a{
+    text-decoration: none;
+    color: rgb(122, 119, 119);
+    font-size: 15px;
+
+}
+#fid{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(122, 119, 119);
+}
+#fid1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 15px;
+    color: rgb(122, 119, 119);
+}
