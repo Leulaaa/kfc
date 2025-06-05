@@ -1,4 +1,4 @@
-# 📝 Task Manager
+# 🍗 KFC Restaurant Frontend Website
 
 A simple and minimal task manager app built using only HTML, CSS, and JavaScript (no libraries or frameworks). It allows you to:
 
