@@ -1,4 +1,4 @@
-#🍗 KFC Restaurant Frontend Website
+🍗 KFC Restaurant Frontend Website
 
 This is a frontend-only website for KFC restaurant, built using HTML, CSS, and JavaScript. 
 
