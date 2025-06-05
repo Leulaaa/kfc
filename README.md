@@ -2,7 +2,9 @@
 
 This is a frontend-only website for KFC restaurant, built using HTML, CSS, and JavaScript. 
 
+
 🚀 Features
+
 
 🏠 Home Page with hero section and intro to the brand
 
